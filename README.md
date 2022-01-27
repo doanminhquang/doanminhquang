@@ -1,16 +1,14 @@
-### Hi there 👋
+![Dino](dino.gif)
 
-<!--
-**doanminhquang/doanminhquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doanminhquang&theme=github-light&hide_border=true&date_format=n%2Fj%5B%2FY%5D&border=F3EBF0)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doanminhquang&layout=compact&theme=theme=github-light)
 
-Here are some ideas to get you started:
+![Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doanminhquang&theme=nord_bright)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doanminhquang&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doanminhquang&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doanminhquang&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doanminhquang&theme=nord_bright)
+
+![](https://komarev.com/ghpvc/?username=doanminhquang)
