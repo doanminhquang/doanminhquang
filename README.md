@@ -2,8 +2,8 @@
 
 <p align="center">
     <img 
-        src="dino.gif"
-        alt="Dino">
+        src="senior-front-end-developer-openings-1.gif"
+        alt="">
     </img>
 <p>
 
