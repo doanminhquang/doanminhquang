@@ -6,6 +6,11 @@
         alt="">
     </img>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=doanminhquang&theme=oneligth&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</p>
+
 <div>
 
 ![](https://github-readme-stats.vercel.app/api?username=doanminhquang)
